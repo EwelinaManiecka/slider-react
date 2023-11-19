@@ -1,4 +1,4 @@
-import React from "react";
+
 // import DSC09868 from "../assets/austria/DSC09868.JPG";
 import DSC09868 from '../assets/austria/DSC09868.JPG';
 import DSC09940 from '../assets/austria/DSC09940.JPG';
